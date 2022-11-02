@@ -7,5 +7,5 @@ Challenge :
 3.Tambahkan fitur swipe left delete task<br>
 4.Tambahkan fitur swipe right go to edit task page<br>
 5.Tambahkan fitur edit task.<br>
-6.Tambahkan fitur validasi input di edit task.<b>
+6.Tambahkan fitur validasi input di edit task.<br>
 7.Tambahkan fitur disable button edit task jika validasi input masih error.<br>
